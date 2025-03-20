@@ -1,6 +1,6 @@
 # CPP05
 (Repetition and Exceptions)
-## Grade 100/100
+## Grade: 100/100
 ![cpp05](https://github.com/user-attachments/assets/9e2a03f2-4507-4a28-a53c-caa6ba7da7da)
 
 ## Overview
